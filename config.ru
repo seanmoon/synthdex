@@ -1,4 +1,3 @@
 require 'rack'
-require 'rack/lobster'
 
-run Rack::Lobster.new 
+require ::File.expand_path('../app',  __FILE__)
