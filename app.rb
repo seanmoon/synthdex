@@ -7,4 +7,3 @@ Cuba.define do
   end
 end
 
-run Cuba
