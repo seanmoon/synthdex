@@ -6,3 +6,5 @@ Cuba.define do
     res.write "404 Not Found"
   end
 end
+
+run Cuba
