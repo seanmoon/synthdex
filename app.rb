@@ -6,7 +6,7 @@ class Patch
   end
 
   def name
-    "PWM Strings"
+    "PWM Strings."
   end
 end
 
